@@ -1,4 +1,4 @@
-SID player for ZX Spectrum with Turbo Sound
+SID player for ZX Spectrum with Turbo Sound (NedoPC standard)
 <br/> TS engiine is still unfinished
 <br/> it doesn't have 8580 duty tables yet
 <br/> as well as many other features due to the heavy lack of memory
